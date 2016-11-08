@@ -1,6 +1,6 @@
 # cs-go
 
-All work can be seen by clicking on 'Branch' button           
+All work can be seen by clicking on `Branch` button or click on `master` in mobile phone website version          
 
 
 Config files for Counter Strike Global Offensive                    
